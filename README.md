@@ -1,0 +1,1 @@
+A PCB project. Has an LED array that light up in patterns based on music input from a microphone. Can make robot faces that blink or makes expressions.
