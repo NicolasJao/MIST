@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAX4466EXK")(type "KiCad")(uri "${KIPRJMOD}/MAX4466EXK/MAX4466EXK.kicad_sym")(options "")(descr ""))
+  (lib (name "CMC-5042PF-AC")(type "KiCad")(uri "${KIPRJMOD}/CMC-5042PF-AC/CMC-5042PF-AC.kicad_sym")(options "")(descr ""))
+  (lib (name "SKRPABE010")(type "KiCad")(uri "C:/Users/nicoj/Documents/Repositories/MIST/EXAMPLE/EXAMPLE/SKRPABE010/SKRPABE010.kicad_sym")(options "")(descr ""))
+)
