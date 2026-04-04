@@ -1,4 +1,4 @@
-27219017742349286
+27224325552078493
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2810,6 +2810,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CMC-5042PF-AC
+CUI_CMC-5042PF-AC
+
+
 0
 2
 2
@@ -71805,6 +71812,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MAX4466EXK
+SOT65P210X110-5N
+
+
+0
+5
+5
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -98657,6 +98671,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SKRPABE010
+SW_SKRPABE010
+
+
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
